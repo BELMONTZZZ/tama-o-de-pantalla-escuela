@@ -37,3 +37,10 @@ body {
 .boton:hover {
     background-color: #b00808;
 }
+.resultado {
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    color: #000000;
+    margin-top: 10px;
+    text-align: center;
+}
